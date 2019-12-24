@@ -2,7 +2,7 @@
 
 ## Here is the list of the images
 
-- [Finance](https://github.com/DevenderKumar090/ML-Adv-Practise/tree/master/images"Finance")
+- [Finance](https://github.com/DevenderKumar090/ML-Adv-Practise/tree/master/images)
 - Banking
 -  Accounts
 - Energy
